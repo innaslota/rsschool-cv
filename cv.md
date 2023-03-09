@@ -48,3 +48,14 @@ _2012 - 2018_ | **Individual proprietorship** + **Brisky Language School** (Hano
 **Tools & Technologies:** computer literacy; G-Suite tools, Microsoft Office tools proficiency.
 
 **Industry knowledge:** following KPI, professional telephonic communication, precise information gathering, customer relationship management, time management and task-prioritization.
+
+## Education
+
+_2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
+
+   **Master** of French Language and Literature
+   
+   **Bachelor** of Vietnamese Language and Literature
+
+- Member of Student Council, and Chief of the group and of the course.
+
