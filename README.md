@@ -1,1 +1,1 @@
-# rsschool-cv
+https://innaslota.github.io/rsschool-cv/cv
