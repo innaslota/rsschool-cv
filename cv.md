@@ -75,3 +75,26 @@ _2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
 - **Ukrainian** - Fluent
 
 - **Russian** - Fluent
+
+## Pet-projects
+
+1. **Weather App** | HTML, CSS, JS, API
+
+   [Demo](https://prismatic-ganache-6fa35b.netlify.app/),
+   [\<Code>](https://github.com/innaslota/weather-app)
+2. **Watches. Landing Page** | HTML, CSS
+  
+   [Demo](https://tourmaline-swan-ea0535.netlify.app/),
+   [\<Code>](https://github.com/innaslota/watches-landing-page)
+3. **Drum Kit** | HTML, CSS, JS
+   
+   [Demo](https://chipper-croissant-29fdee.netlify.app/),
+   [\<Code>](https://github.com/innaslota/drum-kit)
+4. **Slider Gallery** | HTML, CSS, JS
+   
+   [Demo](https://incredible-horse-802096.netlify.app/),
+   [\<Code>](https://github.com/innaslota/slider)
+5. **Wordle** | HTML, JS
+   
+   [Demo](https://clinquant-clafoutis-427d07.netlify.app/),
+   [\<Code>](https://github.com/innaslota/wordle)
