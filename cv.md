@@ -1,9 +1,12 @@
 # Inna Slota
 
+![This is my photo](https://i.ibb.co/2vXDmNJ/IMG-20200818-091003-468-2.jpg)
+
 #### Contacts
 ###### **website:** https://graceful-wisp-99d226.netlify.app; 
 ###### **e-mail address:** innaslota8@gmail.com;
 ###### **phone number:** +380661911118;
+###### **Discord:** Inna Slota (@innaslota).
 
 ## About Me
 #### My Background
@@ -49,6 +52,16 @@ _2012 - 2018_ | **Individual proprietorship** + **Brisky Language School** (Hano
 
 **Industry knowledge:** following KPI, professional telephonic communication, precise information gathering, customer relationship management, time management and task-prioritization.
 
+![picture](https://i.ibb.co/PxFBSfc/html-5.png)
+![picture](https://i.ibb.co/2MGrLMT/css-3.png)
+![picture](https://i.ibb.co/G7JdKvd/js.png)
+![picture](https://i.ibb.co/tDn9Z2C/physics.png)
+![picture](https://i.ibb.co/rGbyPrx/bootstrap.png)
+
+![picture](https://i.ibb.co/gzkbN8j/git.png)
+![picture](https://i.ibb.co/9vXLjqV/visual-studio.png)
+![picture](https://i.ibb.co/9cq29gk/browser.png)
+
 ## Education
 
 _2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
@@ -79,22 +92,32 @@ _2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
 ## Pet-projects
 
 1. **Weather App** | HTML, CSS, JS, API
-
+   
+   ![picture](https://s1.hostingkartinok.com/uploads/images/2023/03/768d37b34b33885e4568fedc92386d30.png)
+   
    [Demo](https://prismatic-ganache-6fa35b.netlify.app/),
    [\<Code>](https://github.com/innaslota/weather-app)
 2. **Watches. Landing Page** | HTML, CSS
-  
+   
+   ![picture](https://i.ibb.co/JyfYKg6/watches-prj.png)
+   
    [Demo](https://tourmaline-swan-ea0535.netlify.app/),
    [\<Code>](https://github.com/innaslota/watches-landing-page)
 3. **Drum Kit** | HTML, CSS, JS
+   
+   ![picture](https://i.ibb.co/DWG4zRw/drum-kit-prj.png)
    
    [Demo](https://chipper-croissant-29fdee.netlify.app/),
    [\<Code>](https://github.com/innaslota/drum-kit)
 4. **Slider Gallery** | HTML, CSS, JS
    
+   ![picture](https://i.ibb.co/12FXQX7/slider-gallery-prj.png)
+   
    [Demo](https://incredible-horse-802096.netlify.app/),
    [\<Code>](https://github.com/innaslota/slider)
 5. **Wordle** | HTML, JS
+
+   ![picture](https://i.ibb.co/0mszspJ/wordle.png)
    
    [Demo](https://clinquant-clafoutis-427d07.netlify.app/),
    [\<Code>](https://github.com/innaslota/wordle)
