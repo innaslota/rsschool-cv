@@ -24,19 +24,27 @@ _August 2020 - February 2023_ | **Wix**
   Supported the Wix ADI and Wix Editor users, resolved different issues connected to the website builder including Domains, Mailboxes, Billing, Editor, Email Marketing issues, etc.
 * _December 2020 - April 2021_ | **Wix Payments Support Specialist**
 
-  Supported business clients using Wix to collect payments for their services and products. Resolved the issues related to all the types of payment systems offered by Wix
+  Supported business clients using Wix to collect payments for their services and products. Resolved the issues related to all the types of payment systems offered by Wix.
 * _April 2021 - February 2023_ | **Wix Answers Customer Success Manager**
 
-  Supported the CRM platform with famous clients and customized the platform on their request
+  Supported the CRM platform with famous clients and customized the platform on their request.
 
 #### Customer Support Representative 
 _May 2019 - August 2020_ | **SupportYourApp**
 
 - Supported different IT projects at the same time (from educational platforms to the banking systems).
-- Provided support via different contact channels (calls, chats, emails, screen sharing) in different CRMs (Wix Answers, Intercom, Zendesk, HubSpot, Jira)
+- Provided support via different contact channels (calls, chats, emails, screen sharing) in different CRMs (Wix Answers, Intercom, Zendesk, HubSpot, Jira).
 
 #### Tutor
 _2012 - 2018_ | **Individual proprietorship** + **Brisky Language School** (Hanoi)
 
 - Gave individual lessons in English, French, and Russian (for foreigners).
 - Taught English to children of 2–15 years old in groups in a play game form.
+
+## Skills
+
+**Interpersonal skills:** a systematic approach, adaptability, analytical skills, responsibility, organizational skills, desire to help, growth orientation, verbal and written communication skills, decision-making, time management, accountability, attention to detail,  positive attitude, fast-paced, teamwork, goal-orientation, tenacity, interpersonal skills, energetic, lifelong learning.
+
+**Tools & Technologies:** computer literacy; G-Suite tools, Microsoft Office tools proficiency.
+
+**Industry knowledge:** following KPI, professional telephonic communication, precise information gathering, customer relationship management, time management and task-prioritization.
