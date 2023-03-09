@@ -61,12 +61,17 @@ _2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
 
 ## Languages
 
-**English** - Advanced
+- **English** - Advanced
 
-**French** - Upper-Intermediate
+- **French** - Upper-Intermediate
+  - certificate DELF B2;
+  - language practice in Montpellier (France):
+    - L'université Paul-Valéry-Montpellier | _January 2020 - July 2020_
 
-**Vietnamese** - Intermediate
+- **Vietnamese** - Intermediate
+  - language practice in Hanoi (Vietnam):
+    - University of Social Sciences and Humanities, VNU Hanoi | _January 2017 - July 2017_
 
-**Ukrainian** - Fluent
+- **Ukrainian** - Fluent
 
-**Russian** - Fluent
+- **Russian** - Fluent
