@@ -4,7 +4,6 @@
 ###### **website:** https://graceful-wisp-99d226.netlify.app; 
 ###### **e-mail address:** innaslota8@gmail.com;
 ###### **phone number:** +380661911118;
-###### **location:** Lviv, Ukraine
 
 ## About Me
 #### My Background
@@ -16,3 +15,28 @@ Therefore, in 2022, I was studying on my own using JavaScript textbooks, went th
 
 #### My Hobbies
 But my interests do not stop at work and programming. I am a very active, positive person who loves life, so in my free time, I enjoy traveling, laughing and making jokes, engaging in outdoor activities such as rafting, hiking, fishing, and cycling. I also enjoy DIY. Specifically, I create and sell homemade scented candles, adore baking cakes, painting, and decorating. As well, I knit winter clothes for me and my family and like embroidering.
+
+## Experience
+#### Customer Support Specialist
+_August 2020 - February 2023_ | **Wix**
+* _August 2020 - December 2020_ | **Wix Support Agent (General)**
+
+  Supported the Wix ADI and Wix Editor users, resolved different issues connected to the website builder including Domains, Mailboxes, Billing, Editor, Email Marketing issues, etc.
+* _December 2020 - April 2021_ | **Wix Payments Support Specialist**
+
+  Supported business clients using Wix to collect payments for their services and products. Resolved the issues related to all the types of payment systems offered by Wix
+* _April 2021 - February 2023_ | **Wix Answers Customer Success Manager**
+
+  Supported the CRM platform with famous clients and customized the platform on their request
+
+#### Customer Support Representative 
+_May 2019 - August 2020_ | **SupportYourApp**
+
+- Supported different IT projects at the same time (from educational platforms to the banking systems).
+- Provided support via different contact channels (calls, chats, emails, screen sharing) in different CRMs (Wix Answers, Intercom, Zendesk, HubSpot, Jira)
+
+#### Tutor
+_2012 - 2018_ | **Individual proprietorship** + **Brisky Language School** (Hanoi)
+
+- Gave individual lessons in English, French, and Russian (for foreigners).
+- Taught English to children of 2–15 years old in groups in a play game form.
