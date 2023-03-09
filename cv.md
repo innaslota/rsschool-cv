@@ -59,3 +59,14 @@ _2014 - 2020_ | **Taras Shevchenko National University of Kyiv**
 
 - Member of Student Council, and Chief of the group and of the course.
 
+## Languages
+
+**English** - Advanced
+
+**French** - Upper-Intermediate
+
+**Vietnamese** - Intermediate
+
+**Ukrainian** - Fluent
+
+**Russian** - Fluent
