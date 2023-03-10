@@ -1,1 +1,1 @@
-https://innaslota.github.io/rsschool-cv/cv
+https://innaslota.github.io/rsschool-cv/
